@@ -1,7 +1,9 @@
-### Hello, I'm Mrunali Katta! 👋
+### Hello, I'm Mrunali! 👋
+![Waving](https://github.com/yourusername/yourrepository/blob/main/waving.gif?raw=true)
 
-#### 📊 Data Analyst | MSc Data Analytics Candidate at San Jose State University | Tech Enthusiast
 
+#### 📊 Seeking Internship Opportunities | MSc Data Analytics at San Jose State University | Tech Enthusiast
+https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoder-nian%2Fcoder-nian&psig=AOvVaw3h6Y7Urj-DGup7mE6IAjyQ&ust=1739948756244000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjBsrXUzIsDFQAAAAAdAAAAABAE
 I am currently pursuing a Master of Science in Data Analytics at San Jose State University, equipped with a strong background in Python, Java, SQL, Tableau, and Big Data technologies like Hadoop and Spark. My professional journey includes roles such as Quality Engineering Analyst at Accenture and Data Science Intern at Bharat Software Solutions.
 
 - 🔭 I’m actively engaged in big data projects utilizing PySpark and Hadoop.
