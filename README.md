@@ -21,7 +21,6 @@
   <a id="user-content-my-skill-set" class="anchor" aria-label="Permalink: My Skill Set" href="#my-skill-set">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       </svg></a></div><p align="center">
-  <b>My Skill Set</b>
 </p>
 
 <markdown-accessiblity-table data-catalyst=""><table><tbody><tr><td valign="top" width="33%">
