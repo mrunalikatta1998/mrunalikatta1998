@@ -1,6 +1,7 @@
 <h1 align="left" tabindex="-1" class="heading-element" dir="auto">
  
   <br>Hi there👋 I'm Mrunali
+#### <h1>📊 Seeking Internship Opportunities | MSc Data Analytics at San Jose State University | Tech Enthusiast
 
   
   </h1>
@@ -8,7 +9,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" alt="Mario Coding">
 </p>
 
-#### 📊 Seeking Internship Opportunities | MSc Data Analytics at San Jose State University | Tech Enthusiast
 
 - 🔭 I’m actively engaged in data projects utilizing Python and SQL.
 - 🤔 I’m seeking opportunities to apply my skills in data analytics for Summer 2025 internships.
