@@ -10,7 +10,7 @@
 
 - 🔭 I’m actively engaged in data projects utilizing Python and SQL.
 - 🤔 I’m seeking opportunities to apply my skills in data analytics for Summer 2025 internships.
-- 📫 How to reach me: [Email](mailto:mrunali.katta@sjsu.edu) | [LinkedIn](https://linkedin.com/in/mrunali-katta)
+- 📫 How to reach me: [Email](mailto:mrunali.katta@sjsu.edu) | [LinkedIn](https://linkedin.com/in/mrunali-katta) | [Portfolio](https://mrunalikatta1998.github.io/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I thrive on diving into new datasets and extracting insights that drive strategic decision-making!
 
