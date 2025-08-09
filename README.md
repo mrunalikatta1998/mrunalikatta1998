@@ -1,7 +1,8 @@
 <h1 align="left" tabindex="-1" class="heading-element" dir="auto">
  
   <br>Hi there👋 I'm Mrunali
-#### <h3>📊 Seeking Internship Opportunities | MSc Data Analytics at San Jose State University | Tech Enthusiast
+#### <h3>📊 Seeking Internship/Co-op or Full-Time Opportunities | MSc in Data Analytics @ San Jose State University | Tech Enthusiast
+
 
   </h1>
 <p align="center">
