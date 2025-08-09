@@ -67,3 +67,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalikatta1998&show_icons=true&locale=en&layout=compact" alt="mrunalikatta1998's GitHub Language Stats" style="max-width: 100%;">
   </a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrunalikatta1998&label=Profile%20views&color=0e75b6&style=flat)
